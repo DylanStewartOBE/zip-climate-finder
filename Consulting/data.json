@@ -1,0 +1,27 @@
+[
+    {
+      "City": "Los Angeles",
+      "State": "CA",
+      "Zip Code": "90001"
+    },
+    {
+      "City": "San Francisco",
+      "State": "CA",
+      "Zip Code": "94016"
+    },
+    {
+      "City": "San Diego",
+      "State": "CA",
+      "Zip Code": "92101"
+    },  
+    {
+      "City": "Portland",
+      "State": "OR",
+      "Zip Code": "97201"
+    },
+    {
+      "City": "Seattle",
+      "State": "WA",
+      "Zip Code": "98101"
+    }
+  ]

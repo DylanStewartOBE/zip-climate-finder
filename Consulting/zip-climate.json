@@ -1,0 +1,27 @@
+[
+    {
+      "State": "CA",
+      "City": "Los Angeles",
+      "Climate Zone": "3"
+    },
+    {
+      "State": "CA",
+      "City": "San Francisco",
+      "Climate Zone": "4"
+    },
+    {
+      "State": "CA",
+      "City": "San Diego",
+      "Climate Zone": "3"
+    },  
+    {
+      "State": "OR",
+      "City": "Portland",
+      "Climate Zone": "4C"
+    },
+    {
+      "State": "WA",
+      "City": "Seattle",
+      "Climate Zone": "4C"
+    }
+  ]
